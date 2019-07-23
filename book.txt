@@ -5,4 +5,6 @@ Summary
 1) Fundamentals of git
 2) Git standard commands
 3) Advanced git commands
-4) Tips & tricks
+4) Troubleshooting
+
+a
