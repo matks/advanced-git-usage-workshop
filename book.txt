@@ -2,7 +2,7 @@ Title: this is a book about git
 
 Summary
 
-d
+dd
 
 1) Fundamentals of git
 2) Git standard commands
