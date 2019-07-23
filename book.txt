@@ -2,6 +2,8 @@ Title: this is a book about git
 
 Summary
 
+dd
+
 1) Fundamentals of git
 2) Git standard commands
 3) Advanced git commands
